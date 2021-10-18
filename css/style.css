@@ -1,0 +1,28 @@
+body{
+    background-color: #cccccc;
+    text-align: center;
+    font-family: 'Yaldevi';
+}
+
+table{
+    background-color:rgb(255, 255, 255);
+    width: 210px;
+    height: 210px;
+    margin: auto;
+    border: 2px solid black;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+td{
+    border: black 1px solid;
+    width: 70px;
+    height: 70px;
+    font-weight: bold;
+}
+
+
+.hidden{
+    display: none;
+}
+
